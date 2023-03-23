@@ -11,8 +11,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '',
-        heading: '',
+        primary: '#daa520',
+        heading: '#daa520',
         lightHeading: '#ffffff',
         paragraph: '#8d8d8dff',
         lightParagraph: '#ffffff',
